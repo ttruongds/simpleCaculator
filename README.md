@@ -3,5 +3,5 @@ This is a simple web app in which users can check the final amount (principal pl
 Inputs require: <br>
 - Amount to deposit(Principal)
 - Interest
-- Deposit period (years)
-Demo app: 
+- Deposit period (years) <br>
+Demo app: https://ttruongds.github.io/simpleCaculator/
